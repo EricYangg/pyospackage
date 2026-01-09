@@ -24,7 +24,8 @@ To use pyospackage-eyang115 in your code:
 
 ```python
 >>> import pyospackage-eyang115
->>> pyospackage-eyang115.hello_world()
+>>> from pyospackage_eyang115.example import add_numbers
+>>> add_numbers(1, 2)
 ```
 
 ## Copyright
